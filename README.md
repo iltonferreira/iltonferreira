@@ -1,6 +1,6 @@
 ### Hi, i'm Ilton Ferreira 😀
 
-## I am a Front-End | .Net developer
+## I am a Full-Stack | .Net developer
 
 - 🌱  Improving at C# | Maui 
 
